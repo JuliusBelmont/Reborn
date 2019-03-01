@@ -5,3 +5,9 @@
 /data/Map046.json https://raw.githubusercontent.com/JuliusBelmont/Reborn/master/Map046.json
 /data/CommonEvents.json https://raw.githubusercontent.com/JuliusBelmont/Reborn/master/CommonEvents.json
 <End of Version>
+
+<Version: 1.06>
+/data/Map005.json https://raw.githubusercontent.com/JuliusBelmont/Reborn/master/Map007.json
+/data/Map046.json https://raw.githubusercontent.com/JuliusBelmont/Reborn/master/Map047.json
+/data/CommonEvents.json https://raw.githubusercontent.com/JuliusBelmont/Reborn/master/CommonEvents.json
+<End of Version>
